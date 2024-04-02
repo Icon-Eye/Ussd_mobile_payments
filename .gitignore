@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+#SQLite database
+ussd_app.db
+#callback data
+data/
+#environment variable backup
+app/.env.bak
+scripts/ngrok.log
